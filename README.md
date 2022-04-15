@@ -5,9 +5,18 @@ This is a proof-of-concept implementation of the ExpFault Tool from our CHES 201
 This version of the tool has been tested on Google Colab and is meant for demonstration purposes.
 It should also run on platforms supporting python => 3.5.
 
-Dependencies:
+# Dependencies:
+-------------
 Please see "DFATool_Colab_v3/doc/DEPENDENCIES"
 
+# How to Run (on your system or Google Colab):
+1. Clone the repo.
+2. Run setup.sh. (It will install all required packages).
+3. unzip DFATool_Colab_v3
+4. Enter the folder.
+5. run expfault.sh and follow the instructions there.
+
+**Alternatively, you may only download the 
 
 If you have some ideas for enhancing or using the tool, please feel free to drop a mail at
 sayandeep.iitkgp@gmail.com
